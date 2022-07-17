@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/bin/ash
 
 # Variables
-name="tayyab"
-s3_bucket="your_bucket"
+name="shivaraj"
+s3_bucket="mywebserver-s3-bucket"
 
 # update the ubuntu repositories
 apt update -y
